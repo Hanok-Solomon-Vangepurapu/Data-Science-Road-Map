@@ -66,7 +66,7 @@ data science regression project: same playlist as above. Tutorial 18 to 25
 
 HINDI codebasics ml playlist (first 14): https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr
 
-#Week 13, 14, 15, 16: Deep Learning
+# Week 13, 14, 15, 16: Deep Learning
 
 Deep learning (artificial neural network, convolutional neural network, recurrent neural network)
 
