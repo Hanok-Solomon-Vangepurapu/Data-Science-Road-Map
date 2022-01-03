@@ -3,7 +3,7 @@ Data science Road map
 Learn data science step by step in 6 months
 Following is a schedule to learn data science step by step considering 4 hours of dedicated, focused study every single day. This program is perfect for beginners with no knowledge of data science and programming.
 
-Week 1 and 2: Excel and Statistics
+# Week 1 and 2: Excel and Statistics
 # Excel
 
 Google templates gallery for personal finance etc : https://docs.google.com/spreadsheets/u/0/?ftv=1
@@ -23,7 +23,7 @@ Statistics by Marin : https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaN
 
 Statquest youtube channel: https://www.youtube.com/user/joshstarmer
 
-Week 3 and 4: Python
+# Week 3 and 4: Python
 
 # Python
 
@@ -36,7 +36,7 @@ Make sure to work on exercises
 # R
 Marin's lectures: https://www.youtube.com/playlist?list=PLqzoL9-eJTNBlVXxWvJkq0dtVut2sICUW
 
-Week 5, 6, 7, 8: Numpy, Pandas, Data Visualization Libraries
+# Week 5, 6, 7, 8: Numpy, Pandas, Data Visualization Libraries
 
 # NumPy and Pandas
 
@@ -56,7 +56,7 @@ Notebooks: https://www.kaggle.com/notebooks
 
 Datasets: https://www.kaggle.com/datasets
 
-Week 9, 10, 11, 12: Machine Learning
+# Week 9, 10, 11, 12: Machine Learning
 
 # Machine learning
 
@@ -72,7 +72,7 @@ Deep learning (artificial neural network, convolutional neural network, recurren
 
 codebasics deep learning playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
-Week 17, 18, 19, 20: SQL & MongoDB
+# Week 17, 18, 19, 20: SQL & MongoDB
 
 # SQL
 
@@ -85,7 +85,7 @@ khanacademy SQL course: https://www.khanacademy.org/computing/computer-programmi
 
 https://www.coursera.org/learn/introduction-mongodb
 
-Week 21, 22, 23, 24: BI tools
+# Week 21, 22, 23, 24: BI tools
 
 # Tableau
 
